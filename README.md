@@ -1,9 +1,6 @@
-# Starter Website
-A neat website template with Bootstrap 5 and some other additional things.
+# Semantic Development for Website
+A semantic template to start your new website project.
 
-## Quick Start
+See [SemDev]() for more information
 
-## Plugins
-- Bootstrap v5.3.2
-- Splide v4.1.4
-- AOS
+Powered by Asterix Technology LLC 
